@@ -6,8 +6,9 @@ Komanda: Emīls Juris Gelašs, Ralfs Uvarovs, Uvis Virsnītis, Emīls Žurevičs
 
 ## Palaišana
 
-Vajag Docker.
-
+Programmatūras lietošanai nepieciešams Docker 4.97.0+
+Terminālī pie attiecīgā foldera .../youtube-api
+API keys norādīti ORTUSā pie iesnieguma.
 ```
 cp .env.example .env
 docker compose up --build
